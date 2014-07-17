@@ -1,6 +1,8 @@
 Haxe-Complexity-Project
 =======================
 
+Author: Victor Grunn/Joseph Antolick
+
 A haxe project illustrating some points of OO complexity and innovation.
 
 This is a large (yet incomplete!) project, so instead of going through 
