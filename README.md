@@ -82,4 +82,4 @@ charting.
 There's more at work here, but those are the highlights.
 
 This uses the HaxeFlixel library, specifically the 3.5 library, but the swf included
-in the export/bin directory shows this app running with the code as of that time.
+in the export/flash/bin directory shows this app running with the code as of that time.
